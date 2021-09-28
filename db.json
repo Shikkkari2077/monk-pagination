@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Vikas Pal",
+      "username": "vikas_hiranwal_",
+      "email": "vikas.mnk2021@gmail.com",
+      "phone": "6397194143",
+      "website": "avak.international.in",
+      "id": 12
+    },
+    {
+      "name": "Kapil Kumar",
+      "username": "shikkari#2077",
+      "email": "kapilprajapati061@gmail.com",
+      "phone": "9149072143",
+      "website": "KARMA Industries ",
+      "id": 13
+    },
+    {
+      "name": "Ravi",
+      "username": "ravi.splendr551",
+      "email": "ravi.ksp2021@info.in",
+      "phone": "8544962215",
+      "website": "ravibullet.in",
+      "id": 14
+    },
+    {
+      "name": "Anurag",
+      "username": "anrg7885",
+      "email": "anurag8545@ymail.com",
+      "phone": "9685444122",
+      "website": "fetchInternational.in",
+      "id": 15
+    },
+    {
+      "name": "Vishal Kumar",
+      "username": "vshl2323",
+      "email": "vishal2453@gmail.com",
+      "phone": "9585666412",
+      "website": "retiredInc.com",
+      "id": 16
+    }
+  ],
+  "students": [
+    {
+      "id": 20,
+      "name": "Kapil Kumar",
+      "city": "Kashipur",
+      "State": "Uttarakhand",
+      "Gender": "Male",
+      "Study": "BCA"
+    },
+    {
+      "id": 21,
+      "name": "Ankur Lal",
+      "city": "Ramnagar",
+      "State": "Rurhki",
+      "Gender": "Male",
+      "Study": "BBA"
+    },
+    {
+      "id": 22,
+      "name": "Ashish Saxena",
+      "city": "Barely",
+      "State": "Uttarpradesh",
+      "Gender": "Male",
+      "Study": "MBA"
+    },
+    {
+      "id": 23,
+      "name": "Sanjay",
+      "city": "Kasol",
+      "State": "Himachal",
+      "Gender": "Male",
+      "Study": "M.Tech"
+    }
+  ]
+}
